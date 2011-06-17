@@ -1,5 +1,9 @@
 ## js-mode ##
 
+**NOTE:**  This project has been deprecated in favor of [js3-mode](https://github.com/thomblake/js3-mode) which is much cleaner, smaller, less crufty, and easier to install.
+
+**This project will no longer be maintained here**
+
 An improved chimeric fork of js-mode and js2-mode that supports comma-first style and other quirks.
 
 The goal of this project was to get a javascript mode working that supports [npm style](https://github.com/isaacs/npm/blob/master/doc/coding-style.md), but it turns out this mode is compatible with other styles as well. Most of the credit for the indentation goes to js-mode, with some handy special cases put in by yours truly.
