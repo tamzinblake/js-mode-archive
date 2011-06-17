@@ -1,3 +1,7 @@
+## DEPRECATED ##
+
+**NOTE:**  This project has been deprecated in favor of [js3-mode](https://github.com/thomblake/js3-mode) which is much cleaner, smaller, less crufty, and easier to install.
+
 ## js-mode ##
 
 **NOTE:**  This project has been deprecated in favor of [js3-mode](https://github.com/thomblake/js3-mode) which is much cleaner, smaller, less crufty, and easier to install.
@@ -59,3 +63,8 @@ along with this program.  If not, see http://www.gnu.org/licenses/.
 
 (Several programs included and referenced here are GPL, so this is too
 why not.)
+
+## DEPRECATED ##
+
+**NOTE:**  This project has been deprecated in favor of [js3-mode](https://github.com/thomblake/js3-mode) which is much cleaner, smaller, less crufty, and easier to install.
+
