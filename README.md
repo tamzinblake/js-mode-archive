@@ -2,9 +2,7 @@
 
 **NOTE:**  This project has been deprecated in favor of [js3-mode](https://github.com/thomblake/js3-mode) which is much cleaner, smaller, less crufty, and easier to install.
 
-## js-mode ##
-
-**NOTE:**  This project has been deprecated in favor of [js3-mode](https://github.com/thomblake/js3-mode) which is much cleaner, smaller, less crufty, and easier to install.
+This is not and has never been the repo for the built-in js-mode in emacs.
 
 **This project will no longer be maintained here**
 
@@ -67,4 +65,3 @@ why not.)
 ## DEPRECATED ##
 
 **NOTE:**  This project has been deprecated in favor of [js3-mode](https://github.com/thomblake/js3-mode) which is much cleaner, smaller, less crufty, and easier to install.
-
